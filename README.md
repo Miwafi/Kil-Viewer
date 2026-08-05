@@ -29,15 +29,11 @@ KilViewer/
 - **最低 Android 版本**: Android 7.0 (API 24)
 - **目标 Android 版本**: Android 14 (API 37)
 
-## 📄 许可证
+## 许可证
 
 本项目采用 Apache License 2.0 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
 
-## 👨‍💻 作者
-
-**miwafi**
-
-## 🙏 致谢
+## 致谢
 
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Material Design](https://material.io/)
