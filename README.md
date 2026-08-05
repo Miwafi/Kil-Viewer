@@ -2,7 +2,7 @@
 
 <img src="app/src/main/res/drawable/appicon.png" width="120" alt="App Icon">
 
-一个基于 Jetpack Compose 的 Android WebView 浏览器应用。
+一个基于 Jetpack Compose 的 Android WebView 第三方Han1me浏览器
 
 ## 项目结构
 
