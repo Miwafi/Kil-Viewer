@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- 下載目錄：getExternalFilesDir(Movies) -->
+    <external-files-path
+        name="movies"
+        path="Movies/" />
+    <!-- 無外部存儲時的備用下載目錄：filesDir/downloads -->
+    <files-path
+        name="downloads"
+        path="downloads/" />
+</paths>
